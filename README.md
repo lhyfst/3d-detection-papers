@@ -44,7 +44,6 @@ todo list:
 - Vehicle detection from 3d lidar using fully convolutional network, Robotics: Science and System, 2016
 - Pixor: Real-time 3d object detection from point clouds, CVPR, 2018
 - Deep continuous fusion for multi-sensor 3d object detection, ECCV, 2018
-- Vehicle detection from 3d lidar using fully convolutional network, Robotics: Science and System, 2016
 - Multiview convolutional neural networks for 3d shape recognition, ICCV, 2015
 - Volumetric and multi-view cnns for object classification on 3d data, CVPR, 2016
 - Fusionnet: 3d object classification using multiple data representations, CoRR, 2016
