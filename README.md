@@ -17,7 +17,7 @@ I will improve this project in a few days.<br>
 
 todo list:
 1. links  -- done
-2. recommended papers  -- The ones that I particularly liked are marked with :star:.
+2. recommended papers  -- done The ones that I particularly liked are marked with :star:.
 3. authors -- done
 4. models  -- remove this item
 5. relevant code  -- done
@@ -168,6 +168,10 @@ Zetong Yang, Yanan Sun, Shu Liu, Xiaoyong Shen, Jiaya Jia,
 - Onboard object detection: Multicue, multimodal, and multiview random forest of local experts, IEEE Transactions on Cybernetics, 2017
 - 3D Backbone Network for 3D Object Detection, 2019
 - A General Pipeline for 3D Detection of Vehicles, 2018
+
+
+## philosophy
+coming...
 
 ## active researchers
 - [Bo Li](http://prclibo.github.io/)
