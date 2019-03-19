@@ -2,7 +2,7 @@
 
 > Author: Li Heyuan (李贺元)<br>
 > Email: lhyfst@gmail.com<br>
-> The papers in this list are about 3d detection & semantic segmentation<br>
+> The papers in this list are about Autonomous Vehicles 3d detection & semantic segmentation<br>
 > especially those using point clouds and in deep learning methods.<br>
 > All rights reserved
 
