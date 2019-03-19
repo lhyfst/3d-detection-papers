@@ -27,13 +27,12 @@ todo list:
 9. try to write some reviews for the recommended papers, if I have time.
 
 ## Mainstream Method Series
-- 3D-grids
+- Voxel
 - Multi-view
-- Volexnet
 - Pointnet
 - Other
 
-## 3D-grids
+## Voxel
 - [Voxnet: A 3d convolutional neural network for real-time object recognition](https://www.ri.cmu.edu/pub_files/2015/9/voxnet_maturana_scherer_iros15.pdf), 
 Daniel Maturana and Sebastian Scherer,
 [code](https://github.com/dimatura/voxnet), 
@@ -128,9 +127,6 @@ CVPR, 2018
 - [3D Object Detection Using Scale Invariant and Feature Reweighting Networks](https://arxiv.org/pdf/1711.10871.pdf), 
 Xin Zhao, Zhe Liu, Ruolan Hu, Kaiqi Huang, 
 AAAI, 2019
-
-
-## VoxelNet
 - [Voxelnet: End-to-end learning for point cloud based 3d object detection](https://arxiv.org/pdf/1711.06396.pdf), 
 Yin Zhou, Oncel Tuzel, 
 [unofficial code](https://github.com/jeasinema/VoxelNet-tensorflow), 
