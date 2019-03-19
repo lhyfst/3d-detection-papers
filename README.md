@@ -2,12 +2,13 @@
 
 > Author: Li Heyuan (李贺元)<br>
 > Email: lhyfst@gmail.com<br>
-> The papers in this list are about 3d detection, especially those using point clouds.<br>
+> The papers in this list are about 3d detection & semantic segmentation<br>
+> especially those using point clouds and in deep learning methods.<br>
 > All rights reserved
 
 
 If you have any suggestion or want to recommend new papers, please feel free to let me know.<br>
-I have read most of the papers here, and am very happy to discuss with you if you have any questions on these papers.<br>
+I have read most of the papers here, and am very happy to discuss with you if you have any issues on these papers.<br>
 I will keep updating this project continuously.<br>
 
 ---
@@ -15,12 +16,15 @@ I will keep updating this project continuously.<br>
 I will improve this project in a few days.<br>
 
 todo list:
-1. links
-2. recommended papers
+1. links  -- I decide to not add any links, since you can search the titles online to find them directly.
+2. recommended papers  -- The ones that I particularly liked are marked with :star:.
 3. authors
-4. models
+4. models  -- remove this item
 5. relevant code
 6. rank by year
+7. famous researcher & institute
+8. write a brief review for each mainstream method
+9. try to write some reviews for the recommended papers, if I have time.
 
 ## Mainstream Method Series
 - 3D-grids
@@ -30,8 +34,17 @@ todo list:
 - Other
 
 ## 3D-grids
-- Voxnet: A 3d convolutional neural network for real-time object recognition, IROS, 2015
-- Octnet: Learning deep 3d representations at high resolutions, CVPR, 2017
+- [Voxnet: A 3d convolutional neural network for real-time object recognition](https://www.ri.cmu.edu/pub_files/2015/9/voxnet_maturana_scherer_iros15.pdf), 
+Daniel Maturana and Sebastian Scherer,
+[code](https://github.com/dimatura/voxnet), 
+[website](http://dimatura.net/research/voxnet/), 
+IROS, 2015
+
+- [Octnet: Learning deep 3d representations at high resolutions](https://arxiv.org/pdf/1611.05009.pdf), 
+Gernot Riegler, Ali Osman Ulusoy, Andreas Geiger, 
+[code](https://github.com/griegler/octnet), 
+CVPR, 2017
+
 - 3d fully convolutional network for vehicle detection in point cloud, IROS, 2017
 - Voting for voting in online point cloud object detection, Robotics: Science and System, 2015
 - Vote3deep: Fast object detection in 3d point clouds using efficient convolutional neural networks, ICRA, 2017
@@ -73,3 +86,9 @@ todo list:
 - Multi-modal sensor registration for vehicle perception via deep neural networks, HPEC, 2015
 - A multilevel mixture-ofexperts framework for pedestrian classification, IEEE Transactions on Image Processing, 2011
 - Onboard object detection: Multicue, multimodal, and multiview random forest of local experts, IEEE Transactions on Cybernetics, 2017
+
+## activate researchers
+- [Bo Li](http://prclibo.github.io/)
+- [Hao Su](http://cseweb.ucsd.edu/~haosu/index.html#teaching)
+- [Charles Ruizhongtai Qi](http://stanford.edu/~rqi/)
+- [Bin Yang](http://www.cs.toronto.edu/~byang/)
