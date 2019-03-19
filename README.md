@@ -16,13 +16,13 @@ I will keep updating this project continuously.<br>
 I will improve this project in a few days.<br>
 
 todo list:
-1. links  -- I decide to not add any links, since you can search the titles online to find them directly.
+1. links  -- done
 2. recommended papers  -- The ones that I particularly liked are marked with :star:.
-3. authors
+3. authors -- done
 4. models  -- remove this item
-5. relevant code
+5. relevant code  -- done
 6. rank by year
-7. famous researcher & institute
+7. active researchers  -- done
 8. write a brief review for each mainstream method
 9. try to write some reviews for the recommended papers, if I have time.
 
@@ -38,11 +38,11 @@ todo list:
 Daniel Maturana and Sebastian Scherer,
 [code](https://github.com/dimatura/voxnet), 
 [website](http://dimatura.net/research/voxnet/), 
-IROS, 2015
+IROS, 2015  :star:
 - [Octnet: Learning deep 3d representations at high resolutions](https://arxiv.org/pdf/1611.05009.pdf), 
 Gernot Riegler, Ali Osman Ulusoy, Andreas Geiger, 
 [code](https://github.com/griegler/octnet), 
-CVPR, 2017
+CVPR, 2017  :star:
 - [3d fully convolutional network for vehicle detection in point cloud](https://arxiv.org/pdf/1611.08069.pdf), 
 Gernot Riegler, Ali Osman Ulusoy, Andreas Geiger, 
 [unofficial code](https://github.com/yukitsuji/3D_CNN_tensorflow), 
@@ -68,7 +68,7 @@ CVPR, 2016
 - [Multi-view 3d object detection network for autonomous driving](https://arxiv.org/pdf/1611.07759.pdf), 
 Xiaozhi Chen, Huimin Ma, Ji Wan, Bo Li, Tian Xia, 
 [code](https://github.com/bostondiditeam/MV3D), 
-CVPR, 2017
+CVPR, 2017  :star:
 - [Joint 3d proposal generation and object detection from view aggregation](https://arxiv.org/pdf/1712.02294.pdf), 
 Jason Ku, Melissa Mozifian, Jungwook Lee, Ali Harakeh, Steven L. Waslander, 
 [code](https://github.com/kujason/avod), 
@@ -78,7 +78,7 @@ Bo Li, Tianlei Zhang, Tian Xia,
 Robotics: Science and System, 2016
 - [Pixor: Real-time 3d object detection from point clouds](https://arxiv.org/pdf/1902.06326), 
 Bin Yang, Wenjie Luo, Raquel Urtasun, 
-CVPR, 2018
+CVPR, 2018  :star:
 - [Deep continuous fusion for multi-sensor 3d object detection](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ming_Liang_Deep_Continuous_Fusion_ECCV_2018_paper.pdf), 
 Ming Liang, Bin Yang, Shenlong Wang, and Raquel Urtasun, 
 ECCV, 2018
@@ -108,7 +108,7 @@ ICCV, 2015
 Charles R. Qi*, Hao Su*, Kaichun Mo, Leonidas J. Guibas, 
 [code](https://github.com/charlesq34/pointnet), 
 [website](http://stanford.edu/~rqi/pointnet/), 
-CVPR, 2017
+CVPR, 2017  :star:
 - [Pointnet++: Deep hierarchical feature learning on point sets in a metric space](https://arxiv.org/abs/1706.02413), 
 Charles R. Qi, Li (Eric) Yi, Hao Su, Leonidas J. Guibas, 
 [code](https://github.com/charlesq34/pointnet2), 
@@ -118,10 +118,10 @@ NIPS, 2017
 Charles R. Qi, Wei Liu, Chenxia Wu, Hao Su, Leonidas J. Guibas, 
 [code](https://github.com/charlesq34/frustum-pointnets), 
 [website](http://stanford.edu/~rqi/frustum-pointnets/), 
-CVPR, 2018
+CVPR, 2018  :star:
 - [PointRCNN 3D Object Proposal Generation and Detection from Point Cloud](https://arxiv.org/pdf/1812.04244.pdf), 
 Shaoshuai Shi, Xiaogang Wang, Hongsheng Li, 
-2018
+2018  :star:
 - [Pointfusion: Deep sensor fusion for 3d bounding box estimation](https://arxiv.org/pdf/1711.10871.pdf), 
 Danfei Xu, Dragomir Anguelov, Ashesh Jain, 
 CVPR, 2018
@@ -134,7 +134,7 @@ AAAI, 2019
 - [Voxelnet: End-to-end learning for point cloud based 3d object detection](https://arxiv.org/pdf/1711.06396.pdf), 
 Yin Zhou, Oncel Tuzel, 
 [unofficial code](https://github.com/jeasinema/VoxelNet-tensorflow), 
-CVPR, 2018
+CVPR, 2018  :star:
 - [Second: Sparsely embedded convolutional detection](https://pdfs.semanticscholar.org/5125/a16039cabc6320c908a4764f32596e018ad3.pdf), 
 Yan Yan,, Yuxing Mao, and Bo Li, 
 [code](https://github.com/traveller59/second.pytorch), 
@@ -145,18 +145,18 @@ Alex H. Lang, Sourabh Vora, Holger Caesar, Lubing Zhou, Jiong Yang, Oscar Beijbo
 2018
 - [Frustum ConvNet: Sliding Frustums to Aggregate Local Point-Wise Features for Amodal 3D Object Detection](https://arxiv.org/pdf/1903.01864.pdf), 
 Zhixin Wang, Kui Jia, 
-2019
+2019  :star:
 - [RoarNet: A Robust 3D Object Detection based on RegiOn Approximation Refinement](https://arxiv.org/pdf/1811.03818), 
 Kiwoo Shin, Youngwook Paul Kwon, Masayoshi Tomizuka, 
 [code](https://github.com/Kiwoo/RoarNet), 
-2018
+2018  :star:
 
 
 ## Other
 - [Recurrent slice networks for 3d segmentation of point clouds](https://arxiv.org/pdf/1802.04402.pdf), 
 Qiangui Huang, Weiyue Wang, Ulrich Neumann, 
 [code](https://github.com/qianguih/RSNet), 
-CVPR, 2018
+CVPR, 2018  :star:
 
 
 ## my reading list
@@ -173,7 +173,7 @@ Zetong Yang, Yanan Sun, Shu Liu, Xiaoyong Shen, Jiaya Jia,
 - 3D Backbone Network for 3D Object Detection, 2019
 - A General Pipeline for 3D Detection of Vehicles, 2018
 
-## activate researchers
+## active researchers
 - [Bo Li](http://prclibo.github.io/)
 - [Hao Su](http://cseweb.ucsd.edu/~haosu/index.html#teaching)
 - [Charles Ruizhongtai Qi](http://stanford.edu/~rqi/)
