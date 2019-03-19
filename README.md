@@ -45,47 +45,158 @@ Gernot Riegler, Ali Osman Ulusoy, Andreas Geiger,
 [code](https://github.com/griegler/octnet), 
 CVPR, 2017
 
-- 3d fully convolutional network for vehicle detection in point cloud, IROS, 2017
-- Voting for voting in online point cloud object detection, Robotics: Science and System, 2015
-- Vote3deep: Fast object detection in 3d point clouds using efficient convolutional neural networks, ICRA, 2017
-- Sliding shapes for 3d object detection in depth images, ECCV, 2014
-- Deep sliding shapes for amodal 3d object detection in rgb-d images, CVPR, 2016
+- [3d fully convolutional network for vehicle detection in point cloud](https://arxiv.org/pdf/1611.08069.pdf), 
+Gernot Riegler, Ali Osman Ulusoy, Andreas Geiger, 
+[unofficial code](https://github.com/yukitsuji/3D_CNN_tensorflow), 
+IROS, 2017
+
+- [Voting for voting in online point cloud object detection](http://www.robots.ox.ac.uk/~mobile/Papers/2015RSS_wang.pdf), 
+Dominic Zeng Wang, Ingmar Posner,
+Robotics: Science and System, 2015
+
+- [Vote3deep: Fast object detection in 3d point clouds using efficient convolutional neural networks](https://arxiv.org/pdf/1609.06666),
+Martin Engelcke, Dushyant Rao, Dominic Zeng Wang, Chi Hay Tong, Ingmar Posner, 
+ICRA, 2017
+
+- [Sliding shapes for 3d object detection in depth images](http://slidingshapes.cs.princeton.edu/paper.pdf), 
+Shuran Song, Jianxiong Xiao, 
+[code](http://slidingshapes.cs.princeton.edu/), 
+[website](http://slidingshapes.cs.princeton.edu/), 
+ECCV, 2014
+
+- [Deep sliding shapes for amodal 3d object detection in rgb-d images](http://dss.cs.princeton.edu/paper.pdf), 
+Shuran Song, Jianxiong Xiao, 
+[code](https://github.com/shurans/DeepSlidingShape), 
+[website](http://dss.cs.princeton.edu/), 
+CVPR, 2016
 
 ## Multi-view
-- Multi-view 3d object detection network for autonomous driving, CVPR, 2017
-- Joint 3d proposal generation and object detection from view aggregation, IROS, 2018
-- Vehicle detection from 3d lidar using fully convolutional network, Robotics: Science and System, 2016
-- Pixor: Real-time 3d object detection from point clouds, CVPR, 2018
-- Deep continuous fusion for multi-sensor 3d object detection, ECCV, 2018
-- Multiview convolutional neural networks for 3d shape recognition, ICCV, 2015
-- Volumetric and multi-view cnns for object classification on 3d data, CVPR, 2016
-- Fusionnet: 3d object classification using multiple data representations, CoRR, 2016
-- Multiview random forest of local experts combining rgb and lidar data for pedestrian detection, IEEE Intelligent Vehicles Symposium, 2015
-- Pedestrian detection combining RGB and dense LIDAR data, IROS, 2014
-- 3d-assisted feature synthesis for novel views of an object, ICCV, 2015
+- [Multi-view 3d object detection network for autonomous driving](https://arxiv.org/pdf/1611.07759.pdf), 
+Xiaozhi Chen, Huimin Ma, Ji Wan, Bo Li, Tian Xia, 
+[code](https://github.com/bostondiditeam/MV3D), 
+CVPR, 2017
+
+- [Joint 3d proposal generation and object detection from view aggregation](https://arxiv.org/pdf/1712.02294.pdf), 
+Jason Ku, Melissa Mozifian, Jungwook Lee, Ali Harakeh, Steven L. Waslander, 
+[code](https://github.com/kujason/avod), 
+IROS, 2018
+
+- [Vehicle detection from 3d lidar using fully convolutional network](https://arxiv.org/pdf/1608.07916.pdf), 
+Bo Li, Tianlei Zhang, Tian Xia, 
+Robotics: Science and System, 2016
+
+- [Pixor: Real-time 3d object detection from point clouds](https://arxiv.org/pdf/1902.06326), 
+Bin Yang, Wenjie Luo, Raquel Urtasun, 
+CVPR, 2018
+
+- [Deep continuous fusion for multi-sensor 3d object detection](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ming_Liang_Deep_Continuous_Fusion_ECCV_2018_paper.pdf), 
+Ming Liang, Bin Yang, Shenlong Wang, and Raquel Urtasun, 
+ECCV, 2018
+
+- [Multiview convolutional neural networks for 3d shape recognition](http://vis-www.cs.umass.edu/mvcnn/docs/su15mvcnn.pdf), 
+Hang Su Subhransu Maji Evangelos Kalogerakis Erik Learned-Miller, 
+[code](https://github.com/jongchyisu/mvcnn_pytorch)
+ICCV, 2015
+
+- [Volumetric and multi-view cnns for object classification on 3d data](http://openaccess.thecvf.com/content_cvpr_2016/papers/Qi_Volumetric_and_Multi-View_CVPR_2016_paper.pdf), 
+Charles R. Qi, Hao Su, Matthias Niessner, Angela Dai, Mengyuan Yan, Leonidas J. Guibas, 
+CVPR, 2016
+
+- [Fusionnet: 3d object classification using multiple data representations](https://arxiv.org/pdf/1607.05695.pdf), 
+Vishakh Hegde, Reza Zadeh, 
+CoRR, 2016
+
+- [Multiview random forest of local experts combining rgb and lidar data for pedestrian detection](https://ieeexplore.ieee.org/document/7225711), 
+A. González, G. Villalonga, J. Xu, D. Vázquez, J. Amores, and A. López., 
+IEEE Intelligent Vehicles Symposium, 2015
+
+- [Pedestrian detection combining RGB and dense LIDAR data](https://ieeexplore.ieee.org/document/6943141), 
+Cristiano Premebida, João Carreira, Jorge Batista, Urbano Nunes, 
+IROS, 2014
+
+- [3d-assisted feature synthesis for novel views of an object](http://openaccess.thecvf.com/content_iccv_2015/papers/Su_3D-Assisted_Feature_Synthesis_ICCV_2015_paper.pdf), 
+Hao Su, Fan Wang, Eric Yi, Leonidas Guibas, 
+ICCV, 2015
 
 ## PointNet
-- Pointnet: Deep learning on point sets for 3d classification and segmentation, CVPR, 2017
-- Pointnet++: Deep hierarchical feature learning on point sets in a metric space, NIPS, 2017
-- Frustum pointnets for 3d object detection from rgb-d data, CVPR, 2018
-- PointRCNN 3D Object Proposal Generation and Detection from Point Cloud, 2018
-- Pointfusion: Deep sensor fusion for 3d bounding box estimation, CVPR, 2018
-- 3D Object Detection Using Scale Invariant and Feature Reweighting Networks, AAAI, 2019
+- [Pointnet: Deep learning on point sets for 3d classification and segmentation](https://arxiv.org/abs/1612.00593), 
+Charles R. Qi*, Hao Su*, Kaichun Mo, Leonidas J. Guibas, 
+[code](https://github.com/charlesq34/pointnet), 
+[website](http://stanford.edu/~rqi/pointnet/), 
+CVPR, 2017
+
+- [Pointnet++: Deep hierarchical feature learning on point sets in a metric space](https://arxiv.org/abs/1706.02413), 
+Charles R. Qi, Li (Eric) Yi, Hao Su, Leonidas J. Guibas, 
+[code](https://github.com/charlesq34/pointnet2), 
+[website](http://stanford.edu/~rqi/pointnet2/), 
+NIPS, 2017
+
+- [Frustum pointnets for 3d object detection from rgb-d data](https://arxiv.org/abs/1711.08488), 
+Charles R. Qi, Wei Liu, Chenxia Wu, Hao Su, Leonidas J. Guibas, 
+[code](https://github.com/charlesq34/frustum-pointnets), 
+[website](http://stanford.edu/~rqi/frustum-pointnets/), 
+CVPR, 2018
+
+- [PointRCNN 3D Object Proposal Generation and Detection from Point Cloud](https://arxiv.org/pdf/1812.04244.pdf), 
+Shaoshuai Shi, Xiaogang Wang, Hongsheng Li, 
+2018
+
+- [Pointfusion: Deep sensor fusion for 3d bounding box estimation](https://arxiv.org/pdf/1711.10871.pdf), 
+Danfei Xu, Dragomir Anguelov, Ashesh Jain, 
+CVPR, 2018
+
+- [3D Object Detection Using Scale Invariant and Feature Reweighting Networks](https://arxiv.org/pdf/1711.10871.pdf), 
+Xin Zhao, Zhe Liu, Ruolan Hu, Kaiqi Huang, 
+AAAI, 2019
 
 ## VoxelNet
-- Voxelnet: End-to-end learning for point cloud based 3d object detection, CVPR, 2018
-- Second: Sparsely embedded convolutional detection, Sensors, 2018
-- Pointpillars: Encoders for object detection from point clouds, 2018
-- Frustum ConvNet: Sliding Frustums to Aggregate Local Point-Wise Features for Amodal 3D Object Detection, 2019
+- [Voxelnet: End-to-end learning for point cloud based 3d object detection](https://arxiv.org/pdf/1711.06396.pdf), 
+Yin Zhou, Oncel Tuzel, 
+[unofficial code](https://github.com/jeasinema/VoxelNet-tensorflow), 
+CVPR, 2018
+
+- [Second: Sparsely embedded convolutional detection](https://pdfs.semanticscholar.org/5125/a16039cabc6320c908a4764f32596e018ad3.pdf), 
+Yan Yan,, Yuxing Mao, and Bo Li, 
+[code](https://github.com/traveller59/second.pytorch), 
+Sensors, 2018
+
+- [Pointpillars: Encoders for object detection from point clouds](https://arxiv.org/pdf/1812.05784.pdf), 
+Alex H. Lang, Sourabh Vora, Holger Caesar, Lubing Zhou, Jiong Yang, Oscar Beijbom, 
+[code](https://github.com/nutonomy/second.pytorch), 
+2018
+
+- [Frustum ConvNet: Sliding Frustums to Aggregate Local Point-Wise Features for Amodal 3D Object Detection](https://arxiv.org/pdf/1903.01864.pdf), 
+Zhixin Wang, Kui Jia, 
+2019
+
+- [RoarNet: A Robust 3D Object Detection based on RegiOn Approximation Refinement](https://arxiv.org/pdf/1811.03818), 
+Kiwoo Shin, Youngwook Paul Kwon, Masayoshi Tomizuka, 
+[code](https://github.com/Kiwoo/RoarNet), 
+2018
+
 
 ## Other
+- [Recurrent slice networks for 3d segmentation of point clouds](https://arxiv.org/pdf/1802.04402.pdf), 
+Qiangui Huang, Weiyue Wang, Ulrich Neumann, 
+[code](https://github.com/qianguih/RSNet), 
+CVPR, 2018
 
-## have not read
-- Recurrent slice networks for 3d segmentation of point clouds, CVPR, 2018
-- Pointsift: A sift-like network module for 3d point cloud semantic segmentation, CoRR, 2018
+
+## my reading list
+- [Pointsift: A sift-like network module for 3d point cloud semantic segmentation](https://arxiv.org/abs/1807.00652), 
+Mingyang Jiang, Yiran Wu, Tianqi Zhao, Zelin Zhao, Cewu Lu, 
+[code](https://github.com/MVIG-SJTU/pointSIFT), 
+CoRR, 2018
+
+- [IPOD: Intensive Point-based Object Detector for Point Cloud](https://arxiv.org/pdf/1812.05276.pdf), 
+Zetong Yang, Yanan Sun, Shu Liu, Xiaoyong Shen, Jiaya Jia, 
+2018
+
 - Multi-modal sensor registration for vehicle perception via deep neural networks, HPEC, 2015
 - A multilevel mixture-ofexperts framework for pedestrian classification, IEEE Transactions on Image Processing, 2011
 - Onboard object detection: Multicue, multimodal, and multiview random forest of local experts, IEEE Transactions on Cybernetics, 2017
+- 3D Backbone Network for 3D Object Detection, 2019
+- A General Pipeline for 3D Detection of Vehicles, 2018
 
 ## activate researchers
 - [Bo Li](http://prclibo.github.io/)
