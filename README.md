@@ -102,57 +102,50 @@ IROS, 2014
 Hao Su, Fan Wang, Eric Yi, Leonidas Guibas, 
 ICCV, 2015
 
+
 ## PointNet
 - [Pointnet: Deep learning on point sets for 3d classification and segmentation](https://arxiv.org/abs/1612.00593), 
 Charles R. Qi*, Hao Su*, Kaichun Mo, Leonidas J. Guibas, 
 [code](https://github.com/charlesq34/pointnet), 
 [website](http://stanford.edu/~rqi/pointnet/), 
 CVPR, 2017
-
 - [Pointnet++: Deep hierarchical feature learning on point sets in a metric space](https://arxiv.org/abs/1706.02413), 
 Charles R. Qi, Li (Eric) Yi, Hao Su, Leonidas J. Guibas, 
 [code](https://github.com/charlesq34/pointnet2), 
 [website](http://stanford.edu/~rqi/pointnet2/), 
 NIPS, 2017
-
 - [Frustum pointnets for 3d object detection from rgb-d data](https://arxiv.org/abs/1711.08488), 
 Charles R. Qi, Wei Liu, Chenxia Wu, Hao Su, Leonidas J. Guibas, 
 [code](https://github.com/charlesq34/frustum-pointnets), 
 [website](http://stanford.edu/~rqi/frustum-pointnets/), 
 CVPR, 2018
-
 - [PointRCNN 3D Object Proposal Generation and Detection from Point Cloud](https://arxiv.org/pdf/1812.04244.pdf), 
 Shaoshuai Shi, Xiaogang Wang, Hongsheng Li, 
 2018
-
 - [Pointfusion: Deep sensor fusion for 3d bounding box estimation](https://arxiv.org/pdf/1711.10871.pdf), 
 Danfei Xu, Dragomir Anguelov, Ashesh Jain, 
 CVPR, 2018
-
 - [3D Object Detection Using Scale Invariant and Feature Reweighting Networks](https://arxiv.org/pdf/1711.10871.pdf), 
 Xin Zhao, Zhe Liu, Ruolan Hu, Kaiqi Huang, 
 AAAI, 2019
+
 
 ## VoxelNet
 - [Voxelnet: End-to-end learning for point cloud based 3d object detection](https://arxiv.org/pdf/1711.06396.pdf), 
 Yin Zhou, Oncel Tuzel, 
 [unofficial code](https://github.com/jeasinema/VoxelNet-tensorflow), 
 CVPR, 2018
-
 - [Second: Sparsely embedded convolutional detection](https://pdfs.semanticscholar.org/5125/a16039cabc6320c908a4764f32596e018ad3.pdf), 
 Yan Yan,, Yuxing Mao, and Bo Li, 
 [code](https://github.com/traveller59/second.pytorch), 
 Sensors, 2018
-
 - [Pointpillars: Encoders for object detection from point clouds](https://arxiv.org/pdf/1812.05784.pdf), 
 Alex H. Lang, Sourabh Vora, Holger Caesar, Lubing Zhou, Jiong Yang, Oscar Beijbom, 
 [code](https://github.com/nutonomy/second.pytorch), 
 2018
-
 - [Frustum ConvNet: Sliding Frustums to Aggregate Local Point-Wise Features for Amodal 3D Object Detection](https://arxiv.org/pdf/1903.01864.pdf), 
 Zhixin Wang, Kui Jia, 
 2019
-
 - [RoarNet: A Robust 3D Object Detection based on RegiOn Approximation Refinement](https://arxiv.org/pdf/1811.03818), 
 Kiwoo Shin, Youngwook Paul Kwon, Masayoshi Tomizuka, 
 [code](https://github.com/Kiwoo/RoarNet), 
@@ -171,11 +164,9 @@ CVPR, 2018
 Mingyang Jiang, Yiran Wu, Tianqi Zhao, Zelin Zhao, Cewu Lu, 
 [code](https://github.com/MVIG-SJTU/pointSIFT), 
 CoRR, 2018
-
 - [IPOD: Intensive Point-based Object Detector for Point Cloud](https://arxiv.org/pdf/1812.05276.pdf), 
 Zetong Yang, Yanan Sun, Shu Liu, Xiaoyong Shen, Jiaya Jia, 
 2018
-
 - Multi-modal sensor registration for vehicle perception via deep neural networks, HPEC, 2015
 - A multilevel mixture-ofexperts framework for pedestrian classification, IEEE Transactions on Image Processing, 2011
 - Onboard object detection: Multicue, multimodal, and multiview random forest of local experts, IEEE Transactions on Cybernetics, 2017
