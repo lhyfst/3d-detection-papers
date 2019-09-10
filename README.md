@@ -174,8 +174,6 @@ Zetong Yang, Yanan Sun, Shu Liu, Xiaoyong Shen, Jiaya Jia,
 - A General Pipeline for 3D Detection of Vehicles, 2018
 
 
-## philosophy
-coming...
 
 ## active researchers
 - [Bo Li](http://prclibo.github.io/)
