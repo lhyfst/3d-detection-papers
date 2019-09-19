@@ -157,6 +157,7 @@ AAAI, 2019
 Qiangui Huang, Weiyue Wang, Ulrich Neumann, 
 [code](https://github.com/qianguih/RSNet), 
 CVPR, 2018  :star:
+- [Part-A^2 Net: 3D Part-Aware and Aggregation Neural Network for Object Detection from Point Cloud](https://arxiv.org/pdf/1907.03670.pdf),Shaoshuai Shi, Zhe Wang, Xiaogang Wang, Hongsheng Li, 2019  :star:
 
 
 ## my reading list
