@@ -101,7 +101,7 @@ Bin Yang, Wenjie Luo, Raquel Urtasun,
 CVPR, 2018  :star:
 - [Deep continuous fusion for multi-sensor 3d object detection](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ming_Liang_Deep_Continuous_Fusion_ECCV_2018_paper.pdf), 
 Ming Liang, Bin Yang, Shenlong Wang, and Raquel Urtasun, 
-ECCV, 2018
+ECCV, 2018  :star:
 
 
 
