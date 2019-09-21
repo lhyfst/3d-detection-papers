@@ -151,6 +151,7 @@ Zhixin Wang, Kui Jia,
 - [3D Object Detection Using Scale Invariant and Feature Reweighting Networks](https://arxiv.org/pdf/1711.10871.pdf), 
 Xin Zhao, Zhe Liu, Ruolan Hu, Kaiqi Huang, 
 AAAI, 2019
+- [STD: Sparse-to-Dense 3D Object Detector for Point Cloud](https://arxiv.org/pdf/1907.10471.pdf)Zetong Yang, Yanan Sun, Shu Liu, Xiaoyong Shen, Jiaya Jia, ICCV, 2019  :star:
 
 ## Other
 - [Recurrent slice networks for 3d segmentation of point clouds](https://arxiv.org/pdf/1802.04402.pdf), 
