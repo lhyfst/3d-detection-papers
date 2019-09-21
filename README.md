@@ -145,20 +145,26 @@ Alex H. Lang, Sourabh Vora, Holger Caesar, Lubing Zhou, Jiong Yang, Oscar Beijbo
 Kiwoo Shin, Youngwook Paul Kwon, Masayoshi Tomizuka, 
 [code](https://github.com/Kiwoo/RoarNet), 
 2018  :star:
+- [IPOD: Intensive Point-based Object Detector for Point Cloud](https://arxiv.org/pdf/1812.05276.pdf), 
+Zetong Yang, Yanan Sun, Shu Liu, Xiaoyong Shen, Jiaya Jia, 
+2018
 - [Frustum ConvNet: Sliding Frustums to Aggregate Local Point-Wise Features for Amodal 3D Object Detection](https://arxiv.org/pdf/1903.01864.pdf), 
 Zhixin Wang, Kui Jia, 
 2019  :star:
 - [3D Object Detection Using Scale Invariant and Feature Reweighting Networks](https://arxiv.org/pdf/1711.10871.pdf), 
 Xin Zhao, Zhe Liu, Ruolan Hu, Kaiqi Huang, 
 AAAI, 2019
-- [STD: Sparse-to-Dense 3D Object Detector for Point Cloud](https://arxiv.org/pdf/1907.10471.pdf)Zetong Yang, Yanan Sun, Shu Liu, Xiaoyong Shen, Jiaya Jia, ICCV, 2019  :star:
+- [STD: Sparse-to-Dense 3D Object Detector for Point Cloud](https://arxiv.org/pdf/1907.10471.pdf)Zetong Yang, Yanan Sun, Shu Liu, Xiaoyong Shen, Jiaya Jia, 
+ICCV, 2019  :star:
+
 
 ## Other
 - [Recurrent slice networks for 3d segmentation of point clouds](https://arxiv.org/pdf/1802.04402.pdf), 
 Qiangui Huang, Weiyue Wang, Ulrich Neumann, 
 [code](https://github.com/qianguih/RSNet), 
 CVPR, 2018  :star:
-- [Part-A^2 Net: 3D Part-Aware and Aggregation Neural Network for Object Detection from Point Cloud](https://arxiv.org/pdf/1907.03670.pdf),Shaoshuai Shi, Zhe Wang, Xiaogang Wang, Hongsheng Li, 2019  :star:
+- [Part-A^2 Net: 3D Part-Aware and Aggregation Neural Network for Object Detection from Point Cloud](https://arxiv.org/pdf/1907.03670.pdf),Shaoshuai Shi, Zhe Wang, Xiaogang Wang, Hongsheng Li, 
+2019  :star:
 
 
 ## my reading list
@@ -166,9 +172,6 @@ CVPR, 2018  :star:
 Mingyang Jiang, Yiran Wu, Tianqi Zhao, Zelin Zhao, Cewu Lu, 
 [code](https://github.com/MVIG-SJTU/pointSIFT), 
 CoRR, 2018
-- [IPOD: Intensive Point-based Object Detector for Point Cloud](https://arxiv.org/pdf/1812.05276.pdf), 
-Zetong Yang, Yanan Sun, Shu Liu, Xiaoyong Shen, Jiaya Jia, 
-2018
 - Multi-modal sensor registration for vehicle perception via deep neural networks, HPEC, 2015
 - A multilevel mixture-ofexperts framework for pedestrian classification, IEEE Transactions on Image Processing, 2011
 - Onboard object detection: Multicue, multimodal, and multiview random forest of local experts, IEEE Transactions on Cybernetics, 2017
