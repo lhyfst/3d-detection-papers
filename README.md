@@ -105,8 +105,6 @@ ECCV, 2018  :star:
 
 
 
-
-
 ## PointNet
 - [Pointnet: Deep learning on point sets for 3d classification and segmentation](https://arxiv.org/abs/1612.00593), 
 Charles R. Qi*, Hao Su*, Kaichun Mo, Leonidas J. Guibas, 
@@ -165,6 +163,9 @@ Qiangui Huang, Weiyue Wang, Ulrich Neumann,
 CVPR, 2018  :star:
 - [Part-A^2 Net: 3D Part-Aware and Aggregation Neural Network for Object Detection from Point Cloud](https://arxiv.org/pdf/1907.03670.pdf),Shaoshuai Shi, Zhe Wang, Xiaogang Wang, Hongsheng Li, 
 2019  :star:
+- [Multi-Task Multi-Sensor Fusion for 3D Object Detection](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liang_Multi-Task_Multi-Sensor_Fusion_for_3D_Object_Detection_CVPR_2019_paper.pdf), 
+Ming Liang, Bin Yang, Yun Chen, Rui Hu, Raquel Urtasun,
+2019, :star:
 
 
 ## my reading list
