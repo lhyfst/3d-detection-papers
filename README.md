@@ -155,7 +155,6 @@ AAAI, 2019
 - [STD: Sparse-to-Dense 3D Object Detector for Point Cloud](https://arxiv.org/pdf/1907.10471.pdf)Zetong Yang, Yanan Sun, Shu Liu, Xiaoyong Shen, Jiaya Jia, 
 ICCV, 2019  :star:
 
-
 ## Other
 - [Recurrent slice networks for 3d segmentation of point clouds](https://arxiv.org/pdf/1802.04402.pdf), 
 Qiangui Huang, Weiyue Wang, Ulrich Neumann, 
@@ -166,7 +165,12 @@ CVPR, 2018  :star:
 - [Multi-Task Multi-Sensor Fusion for 3D Object Detection](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liang_Multi-Task_Multi-Sensor_Fusion_for_3D_Object_Detection_CVPR_2019_paper.pdf), 
 Ming Liang, Bin Yang, Yun Chen, Rui Hu, Raquel Urtasun,
 2019, :star:
-
+- [Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression](https://arxiv.org/pdf/1902.09630.pdf),
+Hamid Rezatofighi, Nathan Tsoi1, JunYoung Gwak, Amir Sadeghian, Ian Reid, Silvio Savarese,
+2019, :star:
+- [https://arxiv.org/ftp/arxiv/papers/1907/1907.05286.pdf](https://arxiv.org/ftp/arxiv/papers/1907/1907.05286.pdf),
+Bei Wang, Jianping An and Jiayan Cao,
+2019, :star:
 
 ## my reading list
 - [Pointsift: A sift-like network module for 3d point cloud semantic segmentation](https://arxiv.org/abs/1807.00652), 
