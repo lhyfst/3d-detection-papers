@@ -168,18 +168,22 @@ Ming Liang, Bin Yang, Yun Chen, Rui Hu, Raquel Urtasun,
 - [Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression](https://arxiv.org/pdf/1902.09630.pdf),
 Hamid Rezatofighi, Nathan Tsoi1, JunYoung Gwak, Amir Sadeghian, Ian Reid, Silvio Savarese,
 2019, :star:
-- [https://arxiv.org/ftp/arxiv/papers/1907/1907.05286.pdf](https://arxiv.org/ftp/arxiv/papers/1907/1907.05286.pdf),
+- [Voxel-FPN: multi-scale voxel feature aggregationin 3D object detection from point clouds](https://arxiv.org/ftp/arxiv/papers/1907/1907.05286.pdf),
 Bei Wang, Jianping An and Jiayan Cao,
 2019, :star:
-
-## my reading list
 - [Pointsift: A sift-like network module for 3d point cloud semantic segmentation](https://arxiv.org/abs/1807.00652), 
 Mingyang Jiang, Yiran Wu, Tianqi Zhao, Zelin Zhao, Cewu Lu, 
 [code](https://github.com/MVIG-SJTU/pointSIFT), 
 CoRR, 2018
-- Multi-modal sensor registration for vehicle perception via deep neural networks, HPEC, 2015
-- A multilevel mixture-ofexperts framework for pedestrian classification, IEEE Transactions on Image Processing, 2011
-- Onboard object detection: Multicue, multimodal, and multiview random forest of local experts, IEEE Transactions on Cybernetics, 2017
+- [PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_PointRCNN_3D_Object_Proposal_Generation_and_Detection_From_Point_Cloud_CVPR_2019_paper.pdf),
+Shaoshuai Shi, Xiaogang Wang, Hongsheng Li,
+2019
+- [Fast Point R-CNN](https://arxiv.org/pdf/1908.02990.pdf),
+Yilun Chen, Shu Liu, Xiaoyong Shen, Jiaya Jia
+2019
+
+
+## my reading list
 - 3D Backbone Network for 3D Object Detection, 2019
 - A General Pipeline for 3D Detection of Vehicles, 2018
 
