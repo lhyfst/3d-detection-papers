@@ -102,8 +102,9 @@ CVPR, 2018  :star:
 - [Deep continuous fusion for multi-sensor 3d object detection](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ming_Liang_Deep_Continuous_Fusion_ECCV_2018_paper.pdf), 
 Ming Liang, Bin Yang, Shenlong Wang, and Raquel Urtasun, 
 ECCV, 2018  :star:
-
-
+- [MLOD: A multi-view 3D object detection based on robust feature fusion method](https://arxiv.org/pdf/1909.04163.pdf)
+Jian Deng and Krzysztof Czarnecki
+2019
 
 ## PointNet
 - [Pointnet: Deep learning on point sets for 3d classification and segmentation](https://arxiv.org/abs/1612.00593), 
@@ -160,6 +161,13 @@ ICCV, 2019  :star:
 Qiangui Huang, Weiyue Wang, Ulrich Neumann, 
 [code](https://github.com/qianguih/RSNet), 
 CVPR, 2018  :star:
+- [Pointsift: A sift-like network module for 3d point cloud semantic segmentation](https://arxiv.org/abs/1807.00652), 
+Mingyang Jiang, Yiran Wu, Tianqi Zhao, Zelin Zhao, Cewu Lu, 
+[code](https://github.com/MVIG-SJTU/pointSIFT), 
+CoRR, 2018
+- [A General Pipeline for 3D Detection of Vehicles](https://ieeexplore.ieee.org/abstract/document/8461232)
+Xinxin Du ; Marcelo H. Ang ; Sertac Karaman ; Daniela Rus
+2018
 - [Part-A^2 Net: 3D Part-Aware and Aggregation Neural Network for Object Detection from Point Cloud](https://arxiv.org/pdf/1907.03670.pdf),Shaoshuai Shi, Zhe Wang, Xiaogang Wang, Hongsheng Li, 
 2019  :star:
 - [Multi-Task Multi-Sensor Fusion for 3D Object Detection](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liang_Multi-Task_Multi-Sensor_Fusion_for_3D_Object_Detection_CVPR_2019_paper.pdf), 
@@ -171,26 +179,17 @@ Hamid Rezatofighi, Nathan Tsoi1, JunYoung Gwak, Amir Sadeghian, Ian Reid, Silvio
 - [Voxel-FPN: multi-scale voxel feature aggregationin 3D object detection from point clouds](https://arxiv.org/ftp/arxiv/papers/1907/1907.05286.pdf),
 Bei Wang, Jianping An and Jiayan Cao,
 2019, :star:
-- [Pointsift: A sift-like network module for 3d point cloud semantic segmentation](https://arxiv.org/abs/1807.00652), 
-Mingyang Jiang, Yiran Wu, Tianqi Zhao, Zelin Zhao, Cewu Lu, 
-[code](https://github.com/MVIG-SJTU/pointSIFT), 
-CoRR, 2018
 - [PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_PointRCNN_3D_Object_Proposal_Generation_and_Detection_From_Point_Cloud_CVPR_2019_paper.pdf),
 Shaoshuai Shi, Xiaogang Wang, Hongsheng Li,
 2019
 - [Fast Point R-CNN](https://arxiv.org/pdf/1908.02990.pdf),
 Yilun Chen, Shu Liu, Xiaoyong Shen, Jiaya Jia
 2019
+- [Three-dimensional Backbone Network for 3D Object Detection in Traffic Scenes](https://arxiv.org/pdf/1901.08373.pdf)
+Xuesong Li, Jose Guivant, Ngaiming Kwok, Yongzhi Xu, Ruowei Li, Hongkun Wu,
+2019
+- [SCNet: Subdivision Coding Network for Object Detection Based on 3D Point Cloud](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8813061)
+ZHIYU WANG, HAO FU, LI WANG, LIANG XIAO, AND BIN DA
+2019
 
 
-## my reading list
-- 3D Backbone Network for 3D Object Detection, 2019
-- A General Pipeline for 3D Detection of Vehicles, 2018
-
-
-
-## active researchers
-- [Bo Li](http://prclibo.github.io/)
-- [Hao Su](http://cseweb.ucsd.edu/~haosu/index.html#teaching)
-- [Charles Ruizhongtai Qi](http://stanford.edu/~rqi/)
-- [Bin Yang](http://www.cs.toronto.edu/~byang/)
