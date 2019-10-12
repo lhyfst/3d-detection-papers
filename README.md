@@ -155,6 +155,9 @@ Xin Zhao, Zhe Liu, Ruolan Hu, Kaiqi Huang,
 AAAI, 2019
 - [STD: Sparse-to-Dense 3D Object Detector for Point Cloud](https://arxiv.org/pdf/1907.10471.pdf)Zetong Yang, Yanan Sun, Shu Liu, Xiaoyong Shen, Jiaya Jia, 
 ICCV, 2019  :star:
+- [Patch Refinement - Localized 3D Object Detection](https://arxiv.org/pdf/1910.04093.pdf)
+Johannes Lehner, Andreas Mitterecker, Thomas Adler, Markus Hofmarcher, Bernhard Nessler, Sepp Hochreiter
+2019 
 
 ## Other
 - [Recurrent slice networks for 3d segmentation of point clouds](https://arxiv.org/pdf/1802.04402.pdf), 
