@@ -194,5 +194,8 @@ Xuesong Li, Jose Guivant, Ngaiming Kwok, Yongzhi Xu, Ruowei Li, Hongkun Wu,
 - [SCNet: Subdivision Coding Network for Object Detection Based on 3D Point Cloud](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8813061)
 ZHIYU WANG, HAO FU, LI WANG, LIANG XIAO, AND BIN DA
 2019
+- [PI-RCNN: An Efficient Multi-sensor 3D Object Detector with Point-based Attentive Cont-conv Fusion Module](https://arxiv.org/pdf/1911.06084.pdf)
+Liang Xie, Chao Xiang, Zhengxu Yu, Guodong Xu, Zheng Yang, Deng Cai1, Xiaofei He
+AAAI, 2019
 
 
