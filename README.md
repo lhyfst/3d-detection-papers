@@ -103,7 +103,7 @@ CVPR, 2018  :star:
 Ming Liang, Bin Yang, Shenlong Wang, and Raquel Urtasun, 
 ECCV, 2018  :star:
 - [MLOD: A multi-view 3D object detection based on robust feature fusion method](https://arxiv.org/pdf/1909.04163.pdf)
-Jian Deng and Krzysztof Czarnecki
+Jian Deng and Krzysztof Czarnecki, 
 2019
 
 ## PointNet
@@ -156,7 +156,7 @@ AAAI, 2019
 - [STD: Sparse-to-Dense 3D Object Detector for Point Cloud](https://arxiv.org/pdf/1907.10471.pdf)Zetong Yang, Yanan Sun, Shu Liu, Xiaoyong Shen, Jiaya Jia, 
 ICCV, 2019  :star:
 - [Patch Refinement - Localized 3D Object Detection](https://arxiv.org/pdf/1910.04093.pdf)
-Johannes Lehner, Andreas Mitterecker, Thomas Adler, Markus Hofmarcher, Bernhard Nessler, Sepp Hochreiter
+Johannes Lehner, Andreas Mitterecker, Thomas Adler, Markus Hofmarcher, Bernhard Nessler, Sepp Hochreiter, 
 2019 
 
 ## Other
@@ -169,7 +169,7 @@ Mingyang Jiang, Yiran Wu, Tianqi Zhao, Zelin Zhao, Cewu Lu,
 [code](https://github.com/MVIG-SJTU/pointSIFT), 
 CoRR, 2018
 - [A General Pipeline for 3D Detection of Vehicles](https://ieeexplore.ieee.org/abstract/document/8461232)
-Xinxin Du ; Marcelo H. Ang ; Sertac Karaman ; Daniela Rus
+Xinxin Du ; Marcelo H. Ang ; Sertac Karaman ; Daniela Rus,
 2018
 - [Part-A^2 Net: 3D Part-Aware and Aggregation Neural Network for Object Detection from Point Cloud](https://arxiv.org/pdf/1907.03670.pdf),Shaoshuai Shi, Zhe Wang, Xiaogang Wang, Hongsheng Li, 
 2019  :star:
@@ -186,16 +186,14 @@ Bei Wang, Jianping An and Jiayan Cao,
 Shaoshuai Shi, Xiaogang Wang, Hongsheng Li,
 2019
 - [Fast Point R-CNN](https://arxiv.org/pdf/1908.02990.pdf),
-Yilun Chen, Shu Liu, Xiaoyong Shen, Jiaya Jia
+Yilun Chen, Shu Liu, Xiaoyong Shen, Jiaya Jia, 
 2019
 - [Three-dimensional Backbone Network for 3D Object Detection in Traffic Scenes](https://arxiv.org/pdf/1901.08373.pdf)
 Xuesong Li, Jose Guivant, Ngaiming Kwok, Yongzhi Xu, Ruowei Li, Hongkun Wu,
 2019
 - [SCNet: Subdivision Coding Network for Object Detection Based on 3D Point Cloud](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8813061)
-ZHIYU WANG, HAO FU, LI WANG, LIANG XIAO, AND BIN DA
+ZHIYU WANG, HAO FU, LI WANG, LIANG XIAO, AND BIN DA, 
 2019
 - [PI-RCNN: An Efficient Multi-sensor 3D Object Detector with Point-based Attentive Cont-conv Fusion Module](https://arxiv.org/pdf/1911.06084.pdf)
-Liang Xie, Chao Xiang, Zhengxu Yu, Guodong Xu, Zheng Yang, Deng Cai1, Xiaofei He
+Liang Xie, Chao Xiang, Zhengxu Yu, Guodong Xu, Zheng Yang, Deng Cai1, Xiaofei He, 
 AAAI, 2019
-
-
