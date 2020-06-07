@@ -197,3 +197,7 @@ ZHIYU WANG, HAO FU, LI WANG, LIANG XIAO, AND BIN DA,
 - [PI-RCNN: An Efficient Multi-sensor 3D Object Detector with Point-based Attentive Cont-conv Fusion Module](https://arxiv.org/pdf/1911.06084.pdf)
 Liang Xie, Chao Xiang, Zhengxu Yu, Guodong Xu, Zheng Yang, Deng Cai1, Xiaofei He, 
 AAAI, 2019
+- [HVNet: Hybrid Voxel Network for LiDAR Based 3D Object Detection]
+(https://arxiv.org/pdf/2003.00186.pdf)
+Maosheng Ye, Shuangjie Xu, Tongyi Cao,
+CVPR, 2020
