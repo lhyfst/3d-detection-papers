@@ -201,3 +201,7 @@ AAAI, 2019
 (https://arxiv.org/pdf/2003.00186.pdf)
 Maosheng Ye, Shuangjie Xu, Tongyi Cao,
 CVPR, 2020
+- [FPConv: Learning Local Flattening for Point Convolution]
+(https://arxiv.org/pdf/2002.10701.pdf)
+Yiqun Lin, Zizheng Yan, Haibin Huang, Dong Du, Ligang Liu, Shuguang Cui, Xiaoguang Han,
+CVPR, 2020
