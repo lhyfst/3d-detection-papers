@@ -205,3 +205,7 @@ CVPR, 2020
 (https://arxiv.org/pdf/2002.10701.pdf)
 Yiqun Lin, Zizheng Yan, Haibin Huang, Dong Du, Ligang Liu, Shuguang Cui, Xiaoguang Han,
 CVPR, 2020
+- [Associate-3Ddet: Perceptual-to-Conceptual Association for 3D Point Cloud Object Detection]
+(https://arxiv.org/pdf/2002.10701.pdf)
+Liang Du, Xiaoqing Ye, Xiao Tan, Jianfeng Feng, Zhenbo Xu, Errui Ding and Shilei Wen, 
+CVPR, 2020
