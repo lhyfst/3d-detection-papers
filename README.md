@@ -209,3 +209,7 @@ CVPR, 2020
 (https://arxiv.org/pdf/2002.10701.pdf)
 Liang Du, Xiaoqing Ye, Xiao Tan, Jianfeng Feng, Zhenbo Xu, Errui Ding and Shilei Wen, 
 CVPR, 2020
+- [SVGA-Net: Sparse Voxel-Graph Attention Network for 3D Object Detection from Point Clouds]
+(https://arxiv.org/pdf/2006.04043.pdf)
+Qingdong He, Zhengning Wang, Hao Zeng, Yi Zeng, Shuaicheng Liu, Bing Zeng, 
+CVPR, 2020
