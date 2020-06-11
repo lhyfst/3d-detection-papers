@@ -213,3 +213,6 @@ CVPR, 2020
 (https://arxiv.org/pdf/2006.04043.pdf)
 Qingdong He, Zhengning Wang, Hao Zeng, Yi Zeng, Shuaicheng Liu, Bing Zeng, 
 CVPR, 2020
+- [H3DNet: 3D Object Detection Using Hybrid Geometric Primitives]
+(https://arxiv.org/pdf/2006.05682.pdf)
+Zaiwei Zhang, Bo Sun, Haitao Yang, Qixing Huang
